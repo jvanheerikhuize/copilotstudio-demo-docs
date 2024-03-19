@@ -1,0 +1,103 @@
+System Team a.s.r. digitalisering - Homepage
+ Welcome to System Team a.s.r. digitalisering
+Enabling Continuous Improvement
+Onze Team MissieWij zetten ons elke dag in om de ontwikkelteams binnen Digitaal en Klantinteractie (en soms ook daarbuiten) te helpen met het opzetten, bouwen, inrichten en beheren van digitale platformen. We lopen voorop in het zetten van standaarden die we documenteren en waarover we actief communiceren.  Daarnaast bedenken we oplossingen voor team overstijgende vraagstukken in zowel techniek als proces. Wij zijn de olie in het radarwerk van Digitaal en Klantinteractie! Meet the team
+Andre Broeckhuijsen van 
+andre.van.broeckhuijsen@asr.nl 
+DevOps Engineer
+?? Werkzaamheden: Ontwikkelen/configuren - Coachen - Consultancy - CI/CD - anderen helpen met techniek
+?? Superpowers: Scherp op het eindresultaat - Azure Kennisbank - Encyclopedie - Denker - Denkt verder /  breder / andere invalshoek
+Pieter Huizen 
+pieter.van.huizen@asr.nl 
+Tech Lead .Net / Sitecore
+?? Werkzaamheden: Technical Owner - Dev - DOB Devops platform en proces - Coach / ondersteunen - Verbinden - Creëren
+?? Superpowers: 1000 poot - Hands on - Meewerkend voorman - Helderheid uitleggen - Veel Kennis - Funny - Laat zich niet gek maken, straalt een enorme rust uit, geeft vertrouwen aan het team
+Henk Wassink 
+henk.wassink@asr.nl 
+Functioneel Beheerder
+?? Werkzaamheden: Rollen en rechten (LTB) - ORM - Incidenten en Problems - Configuratie beheer en LCM
+?? Superpowers: Sterk analytisch - Process master - Bescheiden - Stelt duidelijke vragen - Stille kracht
+Jerry Heerikhuize 
+jerry.van.heerikhuize@asr.nl 
+Tech Lead Development
+?? Werkzaamheden: Onderzoeken - Coachen - Doorontwikkelen - Inspireren - Verbinden - Duiden
+?? Superpowers: Enthousiasmeren - Rechte rug - Heeft altijd een plan - Behulpzaam - Gladde prater - Rust
+Chat via Teams
+Ronald van Voorthuizen (Unlicensed) 
+rvo023@asr.nl 
+Developer / DevOps Engineer
+?? Werkzaamheden: Dev - Ops - Fullstack - Architectuur
+?? Superpowers: Kritisch - Beschouwend - Loyaal - Snel leren - Onconventioneel - Gogo-gadget-arms
+Marco Amersfoort 
+marco.amersfoort@asr.nl 
+DevOps Engineer
+?? Werkzaamheden: Dev - Ops - Infra - Teams versnellen - Moderniseren - Kwaliteit verbeteren - CI/CD stimuleren
+?? Superpowers: Positiviteit - Technische superoplossingen - Betrouwbaar - Azure Maniac - Klaar om te sparren
+Remi Bouwmeester 
+remi.bouwmeester@asr.nl 
+Product Owner
+?? Werkzaamheden: Vooruit kijken - Prioriteren - Afstemmen en oplijnen!
+?? Superpowers: Overzicht - grip - Doorpakker - Actief! - prioriteren kun je leren - vleugje humor - Solid/betrouwbaar
+Barbara Sanders 
+barbara.sanders@asr.nl 
+Scrum master
+?? Werkzaamheden: Faciliteren - oragniseren - vooruit kijken - vragen stellen - impediments chasen - signaleren
+?? Superpowers: Verbinder - Luisteraar - Verbeteraar - Organisator
+Henry Woordes 
+henry.woordes@asr.nl 
+Technisch BICer
+?? Werkzaamheden: Userstories opstellen en Ready for Refinement maken- Afstemming met Business en Development - Prioriteren Userstories
+?? Superpowers: Brede technische achtergrond, Kritisch zijn en blijven, Analytisch, Pragmatisch
+Moos Toet 
+moos.toet@asr.nl 
+Trainee Frontend
+?? Werkzaamheden: Frontend neerzetten voor de Self Service van API management
+?? Superpowers:Wil je weten welke disciplines wij ons team hebben, dan kun je hier onze kennismatrix bekijken. Kennismatrix Systemteam
+* Documentation for workload teams
+* Stakeholders
+* Planningen
+* Kennisdomein System Team
+* Agile way of working (WoW)
+* Scrum events
+* Uitzetten on-prem Sitecore
+* Nieuwe teamleden
+* DOB Standaarden
+* Techlead overleg
+Rules & ActivitiesAlgemeen:
+* Wees op tijd
+* Lees je in voor de teamsessies
+* Leg beslissingen vast (Confluence)
+* Have FunOns Ready Proces: Ready flow - Refinementproces Elke maand geven wij als team een update richting de afdeling. Wat hebben we gedaan, wat gaan we doen, Roadmap communicatie.Voor elke refinement is de PO verantwoordelijk dat er een lijstje van stories (die besproken gaan worden) richting het development team wordt gestuurd zodat iedereen zich kan inlezen. 
+Voor elke “Making Ready“ sessie is de PO verantwoordelijk om de mensen die nodig zijn voor die keer uit te nodigen.Ready Proces afspraken (Retrospective 26 april 2022):
+* Iedereen mag user stories op de backlog zetten
+* Stuur een bericht naar de PO als er een user story is toegevoegd
+* De PO is verantwoordelijk om de waarde & prioritering van de user story te bepalen
+* Making ready met de juiste personen
+* BIC-er controleert of de risk-template en acceptatie criteria zijn ingevuld voordat de refinement begint (Quality Gate)
+* In Refinement alleen stories die zijn goedgekeurd door BIC-er.
+
+
+
+
+ Gaps & Growth Opportunities
+Celebrate & ImproveValues Resources
+Restrict search to this space's space key.
+Bovenkant formulier
+Search 
+Onderkant formulier
+ Latest updates Where to find us
+
+:iphone:
+?? Team metricsKey metric #1
+Updated 16 Feb 2022
+ON TRACK / OFF TRACK
+
+Key metric #2
+Updated 16 Feb 2022
+ON TRACK / OFF TRACK
+
+Key metric #3
+Updated 16 Feb 2022
+ON TRACK / OFF TRACK Our PI Goals
+<Section 1><Section 2>
+<Section 3>
